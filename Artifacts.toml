@@ -1,0 +1,84 @@
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "05eece614bb1489d923fc87ae380fb572bf253e2"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[LoopTools.download]]
+    sha256 = "b7a95624e08311e3db1a9deeaf909bafa97c2ae7d58b16b9a850ca6819d64e0d"
+    url = "https://github.com/fkguo/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+1/LoopTools.v2.15.0.x86_64-apple-darwin14-libgfortran3.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "b47f3a45f1c749a8a370bc14c1da4ae13c45768a"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[LoopTools.download]]
+    sha256 = "0281ff8d4fcbfde5d73a0cca2c8b73ce8ff485c269c30013cf849436f7a4ec60"
+    url = "https://github.com/fkguo/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+1/LoopTools.v2.15.0.x86_64-apple-darwin14-libgfortran4.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "1c3a6c029de891f8372b927db532200fc62e12dc"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[LoopTools.download]]
+    sha256 = "ed498e18c1840f5bb41d69a35f98a3ec1e6832d150568f65755cab1f1a01bc91"
+    url = "https://github.com/fkguo/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+1/LoopTools.v2.15.0.x86_64-apple-darwin14-libgfortran5.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "49f13f5c191c1fd284be1d0f3717c46d8bb9faf3"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "c173968e349e8d43d189cb2d8a2beabaa41a2e38705c9fd6d3585cc38108fe1e"
+    url = "https://github.com/fkguo/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+1/LoopTools.v2.15.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "c8452e905f3edcad9129fdd56ecad7cc5bea750a"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "39d270a6ad8487ae1ef593df11cba83757cf4474545a7123dcf79832a3bfea32"
+    url = "https://github.com/fkguo/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+1/LoopTools.v2.15.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "664f9d9652b72ec9ad60960dc739c3f4f67ea4f2"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "258cdbd955cd6efab13e629d599df07cf9c8526832c7ca2ce353dcc72d1bcfbc"
+    url = "https://github.com/fkguo/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+1/LoopTools.v2.15.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "8b55ea3af3dfcdc09b57479ba68af0a72c12b18d"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[LoopTools.download]]
+    sha256 = "2449335fe83414bbee5c78fa25dfc4bbff0dbf4a25f459ccb8d846a81d90d294"
+    url = "https://github.com/fkguo/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+1/LoopTools.v2.15.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "a9eaac6648603ab8736373a57ea0828d55167e55"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[LoopTools.download]]
+    sha256 = "d9dd24696c1a1d60bba170220c8b4177833f64046f2271854ff2419ed1389df1"
+    url = "https://github.com/fkguo/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+1/LoopTools.v2.15.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "79d1367b23d5d711e2d6d24774ade96ede672826"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[LoopTools.download]]
+    sha256 = "f8bab6f3449ecd3b57555429d9f1270859c12848968b5c052a480991f7af8afa"
+    url = "https://github.com/fkguo/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+1/LoopTools.v2.15.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
